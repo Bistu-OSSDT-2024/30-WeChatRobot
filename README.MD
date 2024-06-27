@@ -67,9 +67,7 @@
 * Rust
 </details>
 
-|![碲矿](assets/TEQuant.jpg)|![赞赏](assets/QR.jpeg)|
-|:-:|:-:|
-|后台回复 `WCF` 加群交流|如果你觉得有用|
+
 
 ## 快速开始
 ### Python
