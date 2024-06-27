@@ -87,8 +87,6 @@ pip install --upgrade wcferry
 #### GoHttp（基于 Go）
 参考 [GoHttp README.MD](clients/gohttp/README.md)
 
-#### ~~wcfhttp（基于 Python）~~
-❗ **wcfhttp 不再维护，有需要可以使用 [WcfRust](https://github.com/lich0821/wcf-client-rust) 或者 [GoHttp](clients/gohttp/README.md)。**
 
 其余客户端，可下载 [最新发布的版本](https://github.com/lich0821/WeChatFerry/releases/latest)，根据技术栈，选择客户端，将相应 `dll` 和 `exe` 文件放到对应位置。
 
@@ -104,8 +102,7 @@ pip install --upgrade wcferry
 ### Rust
 参考 [Rust README.MD](clients/rust/README.MD)
 
-## 一起开发
-> 🚫 非开发用户不需要往下看。
+
 
 ### 安装开发环境
 <details><summary>点击查看</summary>
